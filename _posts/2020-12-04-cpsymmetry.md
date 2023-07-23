@@ -1,6 +1,6 @@
 ---
 layout: post
-title:CP Symmetry: Imperfections Keep The Universe Going  
+title:CP Symmetry\: Imperfections Keep The Universe Going  
 date: 2020-12-04T17:43:15+05:30
 description: The Design Inefficiency
 ---
